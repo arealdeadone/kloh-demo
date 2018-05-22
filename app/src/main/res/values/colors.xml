@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22c7a2</color>
+    <color name="colorPrimaryDark">#26C6DA</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorRaisedButton">#22c7a2</color>
+    <color name="colorRaisedButtonText">#ffffff</color>
+    <color name="colorCardBackground">#ffffff</color>
+    <color name="colorBackground">#dddeee</color>
+    <color name="colorProgressBar">#22c7a2</color>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kloh</string>
+    <string name="sample_event">Sample Event</string>
+    <string name="sample_summary">Sample Summary</string>
+    <string name="bengaluru_25_may_2018">Bengaluru, 25 May 2018</string>
+    <string name="title_activity_details">Details</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi massa, posuere eget euismod non, convallis in odio. Morbi aliquet maximus nulla id porttitor. Aenean quam ligula, volutpat et eros eu, sagittis ullamcorper risus. Vivamus laoreet purus eget ipsum luctus, at gravida quam rhoncus. Nam blandit mi libero, ac ultrices risus lobortis eu. Vestibulum euismod vitae purus vel consectetur. Nam pellentesque leo id velit bibendum blandit.</string>
+    <string name="bengaluru">Bengaluru</string>
+    <string name="john_doe">John Doe</string>
+</resources>
